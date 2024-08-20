@@ -25,6 +25,7 @@
                           "icon": "nextjs"
                         },
                         { "title": "Remix", "href": "/docs/quickstarts/remix", "icon": "remix" },
+                        { "title": "TanStack Start", "href": "/docs/quickstarts/tanstack-start", "icon": "react" },
                         { "title": "Gatsby", "href": "/docs/quickstarts/gatsby", "icon": "gatsby" },
                         { "title": "Astro", "href": "/docs/quickstarts/astro", "icon": "astro" }
                       ]
@@ -1830,6 +1831,16 @@
                     "wrap": true,
                     "href": "/docs/references/remix/read-session-data"
                   }
+                ]
+              ]
+            },
+            {
+              "title": "TanStack Start",
+              "collapse": true,
+              "icon": "react",
+              "items": [
+                [
+                  { "title": "Overview", "href": "/docs/references/tanstack-start/overview" }
                 ]
               ]
             },
